@@ -1,0 +1,19 @@
+.resultBody{
+    height: 100vh;
+    margin: 0;
+    background-color: white; 
+}
+
+.react-player {
+    border-radius: 2%;
+    overflow: hidden;
+}
+
+.word {
+    width: 750px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+    text-align: justify;
+    line-height: 2;
+}
