@@ -1,3 +1,3 @@
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://github.com/farheen-dev/FYP-Works/tree/master?tab=MIT-1-ov-file)](LICENSE)
 
 # A Novel Abstractive Text Summarization approach for Lecture Content
